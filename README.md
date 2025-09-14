@@ -1,11 +1,4 @@
-# SentiLog AI
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/openml-stack/SentiLog-AI/pulls)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/openml-stack/SentiLog-AI/ci.yml?branch=main)](https://github.com/openml-stack/SentiLog-AI/actions)
-[![Open Issues](https://img.shields.io/github/issues/your-org/SentiLog-AI)](https://github.com/openml-stack/SentiLog-AI/issues)
-
----
 
 ## 🧠 What is SentiLog AI?
 
@@ -151,14 +144,6 @@ python app.py
 
 ---
 
-## 🧩 Contributing
-
-1. Comment on the issue you want to work on (frontend, ml-api, express route, schema)
-2. Fork the repo & clone locally
-3. Work in the corresponding subfolder
-4. Open a PR with the title: `[Feature]: <Your Component or Route>`
-
----
 
 ## 📦 Tech Stack
 
@@ -167,37 +152,4 @@ python app.py
 - **ML API:** Python, Flask, transformers, vaderSentiment
 
 ---
-
-## 📝 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
-
-The MIT License is a permissive license that allows you to:
-
-- Freely use, copy, modify, and distribute the code.
-- Use the project in commercial and non-commercial applications.
-- Attribute the original creator(s) in any reused version.
-
-By contributing to this repository, you agree that your contributions will be licensed under the MIT License as well.
-
----
-
-## 🙌 Community
-
-- [Open Issues](https://github.com/openml-stack/SentiLog-AI/issues)
-- [Pull Requests](https://github.com/openml-stack/SentiLog-AI/pulls)
-
----
-
-## 📄 Acknowledgements
-
-- [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Flask](https://flask.palletsprojects.com/)
-- [transformers](https://huggingface.co/transformers/)
-- [vaderSentiment](https://github.com/cjhutto/vaderSentiment)
-
----
-
-> _Let’s build the future of mood and news analysis together — one contribution at a time! _ 
 
