@@ -1,5 +1,6 @@
 
 
+
 ## 🧠 What is SentiLog AI?
 
 SentiLog AI is an open-source platform that combines news sentiment analysis and personal mood journaling. It features a modern React frontend, a robust Node.js/Express backend, and a Python/Flask microservice for ML-powered sentiment/emotion analysis.
